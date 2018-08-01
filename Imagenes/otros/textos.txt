@@ -1,0 +1,99 @@
+Es posible que las imágenes estén sujetas a derechos de autor. 
+ALCALDÍA LOCAL LA CANDELARIA   - color: #fff   font-family: 'ghotamroundedmedium';font-size: 1.3em;
+Alcaldía Mayor de Bogotá D.C.
+
+http://www.lacandelaria.gov.co/sites/all/themes/govi_tema_SDG/assets/fonts/GothamRounded-Medium.otf
+
+Colegios libres de droga
+
+Guía de navegación
+
+El Portal del Ministerio de Sanidad, Consumo y Bienestar Social ha sido diseñado a partir de las orientaciones generales sobre las páginas Web establecidas para los portales de la Administración Pública.
+
+Su estructura básica consta de cinco bloques fundamentales:
+
+    Organización institucional: Información sobre el propio Ministerio de Sanidad, Consumo y Bienestar Social, así como de otras instituciones.
+
+    Sanidad:
+
+        Ciudadanos: Información de interés para el ciudadano, tanto en materia de salud como de diversos aspectos y trámites administrativos.
+
+        Profesionales: Información de utilidad para los profesionales de la sanidad.
+
+        Biblioteca y Publicaciones: Biblioteca y publicaciones editadas por el Ministerio de Sanidad, Servicios Sociales e Igualdad.
+
+        Sanidad en datos: Información estadística editada por el Ministerio de Sanidad, Consumo y Bienestar Social.
+
+    Servicios Sociales e Igualdad: Información relacionada con la política del Gobierno en materia de cohesión e inclusión social, de familia, de protección del menor y de atención a las personas dependientes o con discapacidad y de igualdad, así como de lucha contra toda clase de discriminación y contra la violencia de género.
+
+    Participación pública en proyectos normativos: Información sobre normativa legal en el ámbito sanitario.
+
+    Servicios al Ciudadano: Información de distintos servicios al ciudadano disponibles en el MSSSI.
+
+Asimismo y a través de la página principal, se puede acceder a la información que facilita el Gabinete de Prensa ministerial, así como a la Oficina de información y atención al ciudadano y a las campañas institucionales que periódicamente lleva a cabo el Ministerio.
+
+La página principal incluye enlaces a diversos organismos dependientes del Ministerio de Sanidad, Consumo y Bienestar Social:
+
+    Agencia Española de Medicamentos y Productos Sanitarios (AEMPS)
+
+    Agencia Española de Consumo, Seguridad Alimentaria y Nutrición (AECOSAN)
+
+    Instituto Nacional de Gestión Sanitaria (INGESA)
+
+    Delegación del Gobierno  para Plan Nacional sobre Drogas (PNSD)
+
+    Organización Nacional de Trasplantes (ONT)
+
+    Real Patronato de Discapacidad (RPD)
+
+    Instituto de Mayores y Servicios Sociales (IMSERSO)
+
+    Sistema para la Autonomía y Atención a la Dependencia (SAAD)
+
+    Instituto de la Juventud (INJUVE)
+
+    Instituto de la Mujer y para la Igualdad de Oportunidades
+
+    Consejo de la Juventud de España
+
+A continuación, se detallan algunos servicios integrados en el Sitio Web del Ministerio:
+
+    Bloque "Búsqueda temática" en Portada: Sección donde se facilita el acceso a los contenidos del sitio a través de una búsqueda semántica clasificada por materias.
+
+    Bloque "Próximos eventos" en Portada: Se informa de la celebración en el Ministerio de eventos y jornadas.
+
+    Sección "Personaliza tus Servicios”: A través de esta sección, se podrá tener acceso a la gestión y visualización de sus servicios favoritos del Ministerio y organismos dependientes u otros. Este listado con sus servicios favoritos estará disponible en esta sección, en la portada y en la barra de servicios al pie de página.
+
+    Sección "RSS": Zona habilitada para incluir el contenido de fuentes RSS del MSSSI y de otros medios. El usuario podrá gestionar su suscripción a estas fuentes y visualizara toda la información de su interés de una determinada materia. Se integra contenido proveniente de Google Noticias – Google Salud.
+
+    Barra de Servicios al Pie de Página:
+
+        Traducir: Permitirá al usuario visualizar la página en otros idiomas. Al situar el cursor sobre este elemento de la barra se despliega una lista con los idiomas en los que puede visualizarse la página. Esta funcionalidad se apoya sobre PLaTa, Plataforma de Traducción Automática.
+
+        Para generar una traducción no oficial se puede hacer uso del traductor. Este traductor da un servicio aproximado de traducción, gratuito, que ofrece de forma instantánea traducciones automáticas a 58 idiomas distintos.
+
+        Más información en Acerca de PLaTa Se abrirá en una ventana nueva	.
+
+        Compartir: Permitirá compartir la página actual en una lista de sitios. Al posicionar el cursor sobre el icono se desplegará una lista, donde el usuario podrá elegir en que sitio desea compartir el contenido.
+
+        Me gusta: Permitirá marcar la página actual como “Me gusta” en Facebook.
+
+        Descargar en pdf: Permitirá descargar el contenido de la página en formato PDF.
+
+        Webs temáticas: Acceso a la sección sobre las webs temáticas del MSSSI .
+
+        Personaliza tus servicios: Al situar el cursor sobre el icono se despliega una lista con los servicios personalizados del usuario.
+
+        RSS: Acceso a la Sección "RSS". Al situar el cursor sobre el icono se despliega una lista con los contenidos a los que se haya suscrito el usuario.
+
+La estructura detalla del Portal de Ministerio de Sanidad, Consumo y Bienestar Social (Mapa Web), desde la que se puede acceder a los diversos apartados, es la siguiente:
+
+Enlace al Mapa Web
+
+El Ministerio de Sanidad, Consumo y Bienestar Social pone a disposición de los ciudadanos una versión móvil de su Sitio Web en Internet.
+
+Algunos contenidos del Sitio Web que usted está visualizando han sido generados por una plataforma automática de traducción Se abrirá en una ventana nueva	, sin revisión manual de las traducciones.
+
+Si desea localizar información relacionada con el contenido de esta página, utilice el buscador
+
+
